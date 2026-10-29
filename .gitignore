@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+TrainingImage/
+TrainingImageLabel/
+Attendance/
+StudentDetails/
